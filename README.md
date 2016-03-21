@@ -4,6 +4,8 @@ Neko is a small collection of case tranformation functions for PHP.  They are as
 
 I wrote this library because I was tired of the other libraries out there not working like I expected.  Neko can handle input in Title case, lower case, PascalCase, camelCase, kebab-case, SCREAMING-KEBAB-CASE, snake_case, and SCREAMING_SNAKE_CASE.
 
+You can see how Neko stacks up against other case transformation libraries in the throwdown [over here](https://github.com/yuloh/case-transform-tests).
+
 ## Install
 
 Neko can be installed using [composer](getcomposer.org).
